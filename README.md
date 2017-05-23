@@ -1,0 +1,1 @@
+See https://github.com/esp8266/esp8266-wiki/wiki/gpio-registers if you get compile errors
